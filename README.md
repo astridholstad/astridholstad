@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Subjects:
 
 * ITPE3200 Web Applications
-* DATA3800 Introduction to Datascience with Scripting
+* DATA3800 Introduction to Data Science with Scripting
 * ITPE3100 Computer Security
 * DATA2500 Operating Systems
 * DATA2410 Networking and cloud computing
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * ADTS2310 Software Testing
 * DATA1700 Web Programming
 * DATA1500 Databases
-* DAFE1000 Internet of Things
+* ADSE1310 Internet of Things
 * DATA1200 Inclusive Web Design
 * DATA1100 Technology and Society for Programmers
 * DAPE1400 Programming
