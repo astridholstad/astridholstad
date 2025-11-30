@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 * DAPE1300 Discrete Mathematics
 
 ### How to reach me
-* +47 450 34 014
 * @astridholstad21@gmail.com
+* @astrid@brightboard.no
