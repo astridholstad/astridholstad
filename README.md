@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 ## Welcome to Astrid Young Holstad Profile 👋
 
-### Currently Intern at Bouvet  
+### Consultant at Bouvet  
 
 ### Current stack 
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ### How to reach me
 * @astridholstad21@gmail.com
-* +47 450 34 014
+* astrid.holstad@bouvet.no
 
